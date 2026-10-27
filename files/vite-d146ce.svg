@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <script id="eventround-config" type="application/json">{"csrf_token":"CfDJ8KPBRWgQrmtMvJY93YfdgWmwFaHvU0VWhveFf8lQm-F98-4u1_Db4G33pmlCxkvpGMRv8a7Gr2itaWek1nt5wx85M6msPze9hwQ8rVkzpzupE4EJFmBMlH2p4sQC6TRfTDOaFyUmsJVcL4yfGYqUY4E","org_id":3,"org_name":"Designer Con","org_email":"info@designercon.com","org_street":"12600 Chaparral Rd.","org_street2":"Suite 120","org_city":"Henderson","org_state":"NV","org_postal_code":"89044","org_country":"USA","page_styling":{"primary_color":"#3ea2e0","secondary_color":"#764ba2","tertiary_color":"#f093fb","font_family":"-apple-system, BlinkMacSystemFont, \u0022Segoe UI\u0022, Roboto, sans-serif","font_size":"16px","font_weight":"normal","background_color":"#ffffff","nav_bar_color":"#667eea","background_image":"https://assets.eventround.com/uploads/3/20260216214626_a738f77b-c6db-47c5-b53c-be378934c096.jpg","nav_bar_background_image":"","nav_bar_logo_image":"https://assets.eventround.com/uploads/3/20250722051235_fdcd7453-6011-423a-b17d-e904e43fc1d5.png","event_top_image":"https://assets.eventround.com/uploads/3/20260216221043_17b805c8-5321-41b7-8a35-89e71448fb87.png"},"social_media_links":{"facebook":"http://www.facebook.com/DesignerCon","twitter":"https://www.twitter.com/DesignerCon","instagram":"https://www.instagram.com/designercon/","linkedin":null,"youtube":"https://www.youtube.com/channel/UCYbX6y1b5flCB0xT_3KnUhQ","tiktok":null,"website":"https://www.designercon.com","blog":null,"discord":null,"twitch":null,"bluesky":null,"threads":null},"integrations":{"google_analytics":null,"meta_pixel":{"pixel_id":"538547842621219","enabled":true,"config":{"track_pageviews":true,"track_conversions":true,"custom_events":{}}}},"portal_enabled":true}</script>
+    <meta name="csrf-token" content="CfDJ8KPBRWgQrmtMvJY93YfdgWmwFaHvU0VWhveFf8lQm-F98-4u1_Db4G33pmlCxkvpGMRv8a7Gr2itaWek1nt5wx85M6msPze9hwQ8rVkzpzupE4EJFmBMlH2p4sQC6TRfTDOaFyUmsJVcL4yfGYqUY4E" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Designer Con</title>
+    <meta key="title" content="Designer Con" property="og:title" />
+    <meta
+      content="Get tickets for your favorite events."
+      property="og:description"
+    />
+    <meta
+      content="Get tickets for your favorite events."
+      name="description"
+    />
+    <meta
+      key="viewport"
+      content="viewport-fit=cover, width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
+      name="viewport"
+    />
+    <script type="module" crossorigin src="/assets/index-CyJ4kcKY.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/react-C1f5Ckyl.js">
+    <link rel="modulepreload" crossorigin href="/assets/framer-3mxjnASR.js">
+    <link rel="modulepreload" crossorigin href="/assets/heroui-MkpesGBY.js">
+    <link rel="modulepreload" crossorigin href="/assets/stripe-CdO3L56N.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-DsisQ4Br.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
